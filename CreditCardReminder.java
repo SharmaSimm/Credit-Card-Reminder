@@ -1,4 +1,10 @@
-
+/*********************
+This class implements a user interface for a credit card reminder application
+using JavaFX. It includes functionality for user login, displaying credit card details, 
+adding a new credit cards.Key features involve a simple login system, a dynamic
+interface to manage credit cards, and an add card functionality. It showcase 
+application development skills with JavaFX and basic event handling in Java.
+**************/
 import java.util.Date;
 import javafx.application.Application;
 import javafx.geometry.Pos;
